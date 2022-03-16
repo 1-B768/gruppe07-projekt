@@ -1,0 +1,14 @@
+:root{
+    --main-red-color: #D52B1E;
+    --main-green-color: #D4E09B;
+    --main-olivia-color: #9CB380;
+    --main-khaki-color: #C7AC92;
+    --main-blue-color: #B4D2FF;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
